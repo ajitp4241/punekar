@@ -1,6 +1,10 @@
 
+<<<<<<< HEAD
 pipeline {
 <<<<<<< HEAD
+=======
+
+>>>>>>> 2df58017fdecdc32fd47493c1cc4f2164776e21c
     agent any
     tools {
         maven 'maven3.9.14'
@@ -24,7 +28,11 @@ pipeline {
         }
     }
 }
+<<<<<<< HEAD
 =======
 agent any
     
 >>>>>>> faf46a07e0606d16523c90918f172260bc736297
+=======
+
+>>>>>>> 2df58017fdecdc32fd47493c1cc4f2164776e21c
