@@ -1,5 +1,6 @@
 
 pipeline {
+<<<<<<< HEAD
     agent any
     tools {
         maven 'maven3.9.14'
@@ -23,3 +24,7 @@ pipeline {
         }
     }
 }
+=======
+agent any
+    
+>>>>>>> faf46a07e0606d16523c90918f172260bc736297
